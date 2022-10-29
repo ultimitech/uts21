@@ -1,0 +1,17 @@
+{
+  "name": "uts21",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ultimitech.github.io/uts21",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
